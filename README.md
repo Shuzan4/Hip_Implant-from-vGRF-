@@ -1,10 +1,10 @@
 # Classification of Gait Cycle Abnormalities due to Hip Surgery and Implanted Hip using Machine Learning Techniques
 
-This repo contains the inference code for the paper titled **"Classification of Gait Cycle Abnormalities due to Hip Surgery and Implanted Hip using Machine Learning Techniques"** shich is submitted to IEEE Access.
+This repo contains the inference code for the paper titled **"Classification of Gait Cycle Abnormalities due to Hip Surgery and Implanted Hip using Machine Learning Techniques"** which is submitted to IEEE Access.
 
 This repo has two parts: Result Evaluation and Inference on New Data.
 
-The calculation of classification metrics have been done using `statsOfMeasure.m` from [Mathwork File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/86158-precision-specificity-sensitivity-accuracy-f1-score)
+The calculation of classification metrics have been done using `statsOfMeasure.m` from [Mathwork File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/86158-precision-specificity-sensitivity-accuracy-f1-score).
 
 ## Result Evaluation
 
