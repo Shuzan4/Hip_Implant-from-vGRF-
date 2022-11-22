@@ -1,6 +1,6 @@
 # Classification of Gait Cycle Abnormalities due to Hip Surgery and Implanted Hip using Machine Learning Techniques
 
-This repo contains the inference code for the paper titled **"Classification of Gait Cycle Abnormalities due to Hip Surgery and Implanted Hip using Machine Learning Techniques"** which is submitted to IEEE Access.
+This repo contains the inference code for the paper titled **"Classification of Gait Cycle Abnormalities due to Hip Surgery and Implanted Hip using Machine Learning Techniques"** which is submitted to Diagonastic.
 
 This repo has two parts: Result Evaluation and Inference on New Data.
 
